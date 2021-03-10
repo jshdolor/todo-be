@@ -1,0 +1,10 @@
+{
+    "db_credentials": {
+        "database": "todoapp",
+        "username": "joshuadolor",
+        "password": "",
+        "host": "localhost",
+        "logging": false,
+        "dialect": "postgres"
+    }
+}
